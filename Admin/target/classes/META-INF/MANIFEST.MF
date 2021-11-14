@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: bhanu
+Build-Jdk: 17
+Implementation-Title: Admin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Admin
+Created-By: Maven Integration for Eclipse
+
